@@ -1,6 +1,6 @@
 # Primer entraga react - loshermanos-robles
 
-## Plantilla de app en react para restaurante "Los hermanos"
+## Plantilla de app para restaurante "Los hermanos"
 
 # Getting Started with Create React App
 
