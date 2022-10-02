@@ -1,4 +1,4 @@
-# Primer entraga react - loshermanos-robles
+# Primer entraga react -loshermanos-robles
 
 ## Plantilla de app para restaurante "Los hermanos"
 
