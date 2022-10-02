@@ -1,2 +1,5 @@
 # Interfaces_De_Usuario - Primer entrega reack
-<hr>
+
+Alumno: Robles Luciano
+
+Plantilla para la app de restaurante "Los Hermanos"
